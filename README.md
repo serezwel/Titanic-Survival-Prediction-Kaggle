@@ -1,7 +1,7 @@
 # Titanic-Survival-Prediction-Kaggle
 This is my submission for the Titanic survival predictor competition from Kaggle.  
 
-The submission is heavily inspired by the Intro to Deep Learning course, including the usage of **Stochastic Gradient Descent** as the prediction model.
+The submission is heavily inspired by the Intro to Deep Learning course, including the usage of **Stochastic Gradient Descent** as the prediction model and **Binary Classification** to predict the results.
 Link to the course: [Link](https://www.kaggle.com/learn/intro-to-deep-learning)
 
 A few techniques for Exploratory Data Analysis (EDA) is inspired by another submission for this competition: [Link](https://www.kaggle.com/mithun162001/getting-started-with-kaggle)  
