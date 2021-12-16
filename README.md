@@ -12,3 +12,9 @@ List of Dependencies:
 * Seaborn: [Link](https://seaborn.pydata.org/api.html)  
 * SKLearn: [Link](https://scikit-learn.org/stable/)
 * TensorFlow: [Link](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+
+
+**DISCLAIMER**: This project does not aim for the best accuracy but as a way to practice machine learning models and data science techniques.
+
+
+I am still not satisfied with results as of now (16 December 2021), so further updates, especially on data cleaning and feature engineering, to the project will be implemented.
